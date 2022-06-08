@@ -18,6 +18,7 @@ import { PaisInputComponent } from './components/pais-input/pais-input.component
     VerPaisComponent,
     PaisTableComponent,
     PaisInputComponent,
+    PorRegionComponent
   ],
   exports: [
     PorCapitalComponent,
